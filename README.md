@@ -9,4 +9,4 @@ A choice of 8 to 128 characters is selected
 After all prompts have been answered, a unique password is generated
 Finally the generated password is displayed on screen
 
-Depolyed site: 
+Depolyed site: https://ckitazumi.github.io/PasswordGenerator/
